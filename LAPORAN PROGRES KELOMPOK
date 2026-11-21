@@ -1,0 +1,19 @@
+minggu 1: visit ke mitra kholik rental car
+Pada tahap awal pelaksanaan proyek Quality Assurance (QA) website Kholik Rent Car, 
+saya bersama kelompok melakukan kunjungan langsung (visit) ke pihak mitra untuk memperkenalkan tujuan kegiatan serta meminta izin 
+pelaksanaan pengujian terhadap website yang digunakan. Berdasarkan hasil kunjungan dan komunikasi dengan pihak mitra, 
+kami memperoleh persetujuan untuk melaksanakan pengujian menggunakan metode Black Box Testing. 
+Pihak mitra juga memberikan izin kepada kelompok kami untuk mendokumentasikan dan mengunggah hasil pengujian tersebut ke dalam repositori
+GitHub sebagai bentuk dokumentasi proyek. Sementara itu, untuk pelaksanaan White Box Testing, pihak mitra menyampaikan bahwa informasi
+lebih lanjut mengenai akses dan pelaksanaannya akan diberikan pada minggu kedua. Dengan demikian, 
+kegiatan pengujian akan dilaksanakan secara bertahap sesuai dengan izin, arahan, dan ketentuan yang telah disepakati bersama pihak mitra.
+
+minggu ke 2: melakukan dokumentasi BlackBox
+Pada minggu kedua pelaksanaan proyek Quality Assurance (QA) website Kholik Rent Car, saya bersama kelompok mulai melaksanakan pengujian
+menggunakan metode *Black Box Testing* dengan melakukan pemeriksaan terhadap seluruh fitur yang tersedia pada website. 
+Pengujian dilakukan dengan mencoba setiap fungsi dan menu untuk memastikan bahwa fitur dapat berjalan 
+sesuai dengan hasil yang diharapkan. Selama proses pengujian, kami juga mendokumentasikan setiap fitur melalui pengambilan screenshot 
+sebagai bukti pelaksanaan testing. Selanjutnya, kelompok membuat folder khusus bernama "Hasil Dokumentasi Testing" pada repositori GitHub
+untuk menyimpan dan mengorganisasi seluruh dokumentasi hasil pengujian. Screenshot dari setiap fitur yang telah diuji kemudian diunggah 
+ke dalam folder tersebut agar proses pengujian memiliki bukti dokumentasi yang terstruktur, mudah ditelusuri, dan dapat digunakan 
+sebagai bahan penyusunan laporan QA.
