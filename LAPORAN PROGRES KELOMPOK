@@ -17,3 +17,14 @@ sebagai bukti pelaksanaan testing. Selanjutnya, kelompok membuat folder khusus b
 untuk menyimpan dan mengorganisasi seluruh dokumentasi hasil pengujian. Screenshot dari setiap fitur yang telah diuji kemudian diunggah 
 ke dalam folder tersebut agar proses pengujian memiliki bukti dokumentasi yang terstruktur, mudah ditelusuri, dan dapat digunakan 
 sebagai bahan penyusunan laporan QA.
+
+minggu ke 3 dan ke 4: kelompok masih tahap mencari mitra. untuk mitra website Kholik Rent Car tidak ada respons sejak 2 minggu yang lalu.
+kelompok mulai menjcari mitra lain dan sudah dapat beberapa nama. masalah baru terlihat. ternyata semua mitra menolak untuk memberikan
+sourcew code. mitra menyebutkan "banya data sensitiv yang ada di sorce code seperti data pelanggan dan sebagainya. jadi jika ingin melakukan
+testing secara blackbox diperbolehkan, namun untuk whitebox sendiri kami tidak mengizinkan" begitu ucap kebanyakan owner website tersebut.
+pada saat ini minggu ke 4 ada 1 kandidat website yang bersedia memberikan source code namun masih meminta waktu untuk mendiskusikan ke atasan.
+pengerjaan terhenti karna belum ada mitra pasti. kelompok sudah mulai membuat dokumen namun harus mengulang-ulang kembali karna mitra
+yang terus berganti dan tidak memberikan kepastian.
+
+untuk tester QA sendiri kelompok sudah menemukan seorang yang sudah pernah bekerja di bagian QA. untuk sesi wawancara atau diskusi akan dilanjutkan
+apabila sudah menemukan mitra yang tepat dan dapat memberikan source kode kepada kelompok
